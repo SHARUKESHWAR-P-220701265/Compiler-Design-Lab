@@ -1,0 +1,1 @@
+Develop A Lexical Analyser To Recognize A Few Patterns In C. (Ex. Identifiers, Constants, Comments, And Operators, Etc.) Using Lex Tool.
